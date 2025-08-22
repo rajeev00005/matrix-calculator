@@ -6,7 +6,7 @@ export default function AboutPage() {
     <Container maxWidth="md" sx={{ py: 6 }}>
       <Paper sx={{ p: 4, borderRadius: 3, bgcolor: '#f8f9fa' }}>
         <Typography variant="h4" component="h1" gutterBottom color="primary">
-          📄 About Matrix Calculator
+          📄  About Matrix Calculator
         </Typography>
         <Typography variant="body1" paragraph>
           This app demonstrates matrix generation and addition based on row and column indices.

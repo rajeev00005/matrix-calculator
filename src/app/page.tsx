@@ -116,7 +116,7 @@ export default function Home() {
       {addedMatrix && (
         <Box textAlign="center" mb={4}>
           <Typography variant="h5" fontWeight="bold" mb={2} color="success.main">
-            ✅ After Adding (A + B)
+            ✅ After Adding  (A + B)
           </Typography>
           <Paper
             elevation={4}
