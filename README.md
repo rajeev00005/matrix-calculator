@@ -7,7 +7,7 @@ A responsive matrix calculator built with:
 - Responsive Design
 
 ## 🖼️ Screenshot
-(/matrix-calculator/public/website-image.png)
+/public/images/website-image.png
 
 ## 🚀 Features
 - Generate Matrix A (i + j)
